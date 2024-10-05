@@ -1,4 +1,4 @@
-# 🤓 Data Portfolio
+# Data Portfolio 🚀
 
 Welcome to my data portfolio! Here, you'll find a curated collection of projects that highlight my expertise in working with data—ranging from data wrangling and analysis to visualization and communicating insights effectively.
 
@@ -9,22 +9,14 @@ Each project demonstrates my proficiency with tools such as **Python**, **pandas
 ## 📊 Projects
 
 ### 1) 🛠 Data Wrangling and Analysis: NYC Public School Test Scores
+This project focuses on exploring and analyzing SAT performance data from New York City public schools. The goal is to provide valuable insights into school performance, based on key metrics from the SAT, across different boroughs. The project involves the following key steps:
 
-In this project, I explore and analyze NYC public school SAT scores to answer key questions about school performance. This includes:
-
-- **🧹 Data Cleaning**: Handling missing data and ensuring data quality.
-- **🔄 Data Wrangling**: Transforming and restructuring the data for analysis.
-- **📈 Analysis**: Identifying the best performing schools in math, evaluating combined SAT scores, and exploring borough-level statistics.
-- **🔑 Key Skills**: pandas, data wrangling, aggregation, and analysis.
+🧹 Data Cleaning: Addressing missing values in the dataset and ensuring the data is well-prepared for analysis.
+🔄 Data Wrangling: Transforming and organizing the data for meaningful comparisons, including calculating combined SAT scores.
+📈 Analysis: Identifying the top-performing schools in math, evaluating overall SAT performance (math, reading, and writing), and investigating borough-level performance variability.
+🔑 Key Skills Demonstrated: Data cleaning, data wrangling with pandas, aggregation techniques, statistical analysis (mean, standard deviation), and generating insights from complex datasets.
 
 👉 [Explore the Project](https://github.com/josepalacios3/Data-Wrangling-and-Analysis--NYC-Public-School-Test-Scores.git)
-
----
-
-### 🚀 How to Use This Portfolio
-
-- **📁 Projects**: Click on the project titles to explore the detailed code, analysis, and results.
-- **💬 Contact**: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jose-palacios-sf/) for collaboration or if you have any questions.
 
 ---
 
