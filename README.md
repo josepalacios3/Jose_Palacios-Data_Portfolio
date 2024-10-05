@@ -17,7 +17,7 @@ In this project, I explore and analyze NYC public school SAT scores to answer ke
 - **📈 Analysis**: Identifying the best performing schools in math, evaluating combined SAT scores, and exploring borough-level statistics.
 - **🔑 Key Skills**: pandas, data wrangling, aggregation, and analysis.
 
-👉 [Explore the Project](#) ([Link to the specific project](https://github.com/josepalacios3/Data-Wrangling-and-Analysis--NYC-Public-School-Test-Scores.git))
+👉 [Explore the Project](https://github.com/josepalacios3/Data-Wrangling-and-Analysis--NYC-Public-School-Test-Scores.git)
 
 ---
 
